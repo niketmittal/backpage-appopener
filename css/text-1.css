@@ -1,0 +1,26 @@
+.text-1{
+    position: static;
+width: 237px;
+height: 42px;
+left: 43.5px;
+top: 97px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+
+/* White Theme / Gray - 2 */
+
+color: #E2E2EA;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+}

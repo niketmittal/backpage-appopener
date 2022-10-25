@@ -1,0 +1,29 @@
+.openlink{
+    position: static;
+    width: auto;
+    height: auto;
+    left: auto;
+    top: auto;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* White Theme / Gray - 8 */
+
+    color: #161618;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0;
+}

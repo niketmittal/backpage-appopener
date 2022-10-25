@@ -1,0 +1,17 @@
+.logo-img{
+    position: static;
+    width: 55.5px;
+    height: 55.5px;
+    left: 134.25px;
+    top: 8px;
+
+    background: url(images/logo.png);
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+
+}
